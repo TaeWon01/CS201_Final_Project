@@ -23,7 +23,7 @@ if (!bookingTemp){
 }
 
 $(document).ready(function(){
-  $("#myName").html("<h2>Michael Rodgers</h2>");
+  $("#myName").html("<h2>Tom Go</h2>");
 
   $("#first-name").blur(function(){
     booking.first_name = $("#first-name").val();
